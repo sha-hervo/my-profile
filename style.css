@@ -1,0 +1,137 @@
+body { 
+	background-color: rgb(164, 178, 170); 
+	color: rgb(119, 127, 122);
+	font-family: helvetica, serif;
+	}
+
+ .titre-blanc {
+	 margin: 20px;
+   	 background: #bdc5be;
+  	 box-shadow: 10px 10px 30px;
+   	 border-radius: 4px;
+   	 padding: 5px;
+	}
+
+ .intro-shining{
+	 margin: 30px;
+     background: #a7ada8;
+  	 box-shadow: 10px 10px 30px;
+   	 border-radius: 4px;
+   	 height: 260px;
+   	 width: 800px;
+     padding: 5px;
+	 float: left;
+	}
+
+.shining {
+   	 width: 300px;
+   	 height: 225px;
+   	 float: left;
+   	 border-radius: 5px;
+   	 box-shadow: 15px 10px 20px;
+	 margin:  15px 15px ;
+	}
+
+.coding { 
+	 margin: 30px;
+	 margin-bottom: 10px;
+   	 background: #a7ada8;
+  	 box-shadow: 5px 5px 30px;
+   	 border-radius: 4px;
+   	 height: 260px;
+     padding: 20px;
+     float: right;
+	 width: 450px;
+     height: fit-content;
+	}
+
+.drawing {
+	 background: #a7ada8;
+  	 box-shadow: 5px 5px 30px;
+   	 border-radius: 4px;
+     padding: 20px;
+     margin: 30px;
+     margin-top: 20px;
+     padding-top: 20px;
+     float: right;
+     width: 450px;
+     height: fit-content;
+	}
+
+.magritte {
+	 width: 200px;
+   	 height: 300px;
+   	 margin-top: 10px;
+   	 box-shadow: 5px 5px 30px;
+   	 border-radius: 4px;
+	}
+
+.fashion {
+	 background: #a7ada8;
+  	 box-shadow: 5px 5px 30px;
+   	 border-radius: 4px;
+     padding: 20px;
+     margin-left: 30px;
+     margin-right: 30px;
+   	 width: 770px;
+	 float: left;
+	}
+
+
+.dior {
+  	 width: 450px;
+  	 height: 200px;
+     margin-top: 10px;
+	 box-shadow: 5px 5px 30px;
+   	 border-radius: 4px;
+	}
+
+.socials {
+	 margin-top: 750px;
+  	 margin-left: 30px;
+  	 margin-right: 30px;
+   	 background: #bdc5be;
+  	 box-shadow: 10px 10px 30px;
+   	 border-radius: 4px;
+   	 padding: 20px;
+   	 width: 770px;
+   	 height: 150px;
+   	}
+
+
+ h1 {
+ 	color: rgb(110, 115, 112);
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	font-size: 24px;
+ 	}
+
+ h3 { text-align: center;
+ 	text-transform: lowercase;
+	}
+
+.image {
+	float: center;
+	margin: 15px 15px 0;
+	}
+
+ p { 
+ 	font-size: 16px;
+    padding: 10px 30px;
+    text-align: left;
+    float: left;
+	}
+
+h2 {
+	font-size: 24px;
+	text-transform: uppercase;
+	}
+
+ a {
+	color: rgb(110, 115, 112);
+	transition: color 0.3s ease;
+	}
+
+a:hover {
+	color: white;
+	}
